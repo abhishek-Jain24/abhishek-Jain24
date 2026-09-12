@@ -56,6 +56,18 @@
 
 ---
 
+
+## 🎮 Pac-Man Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhishek-jain24/abhishek-jain24/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abhishek-jain24/abhishek-jain24/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/abhishek-jain24/abhishek-jain24/output/pacman-contribution-graph.svg">
+</picture>
+
+---
+
+
 ## 📊 GitHub Stats
 
 <p align="left">
