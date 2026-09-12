@@ -3,7 +3,7 @@
 ### A Passionate Backend Developer from India 🇮🇳
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=abhishek-jain24&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek-jain24" />
+  <img src="https://komarev.com/ghpvc/?username=abhishek-Jain24&label=Profile%20views&color=0e75b6&style=flat" alt="" />
 </p>
 
 ---
@@ -22,22 +22,22 @@
 
 <p align="left">
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=java" alt="java" width="45" height="45"/>
+    <img src="https://skillicons.dev/icons?i=java" alt="" width="45" height="45"/>
   </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=python" alt="python" width="45" height="45"/>
+    <img src="https://skillicons.dev/icons?i=python" alt="" width="45" height="45"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="45" height="45"/>
+    <img src="https://skillicons.dev/icons?i=js" alt="" width="45" height="45"/>
   </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=html" alt="html5" width="45" height="45"/>
+    <img src="https://skillicons.dev/icons?i=html" alt="" width="45" height="45"/>
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=css" alt="css3" width="45" height="45"/>
+    <img src="https://skillicons.dev/icons?i=css" alt="" width="45" height="45"/>
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="45" height="45"/>
+    <img src="https://skillicons.dev/icons?i=mysql" alt="" width="45" height="45"/>
   </a>
 </p>
 
@@ -47,39 +47,37 @@
 
 <p align="left">
   <a href="https://dev.to/@abhishekjain45" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@abhishekjain45" height="35" width="45" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="" height="35" width="45" />
   </a>
-  <a href="mailto:navyaabhi8512@gmail.com" target="blank">
-    <img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="email" height="35" width="45" />
+  <a href="mailto:abhishekjain24342@gmail.com" target="blank">
+    <img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="" height="35" width="45" />
   </a>
 </p>
 
 ---
-
 
 ## 🎮 Pac-Man Contribution Graph
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhishek-jain24/abhishek-jain24/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abhishek-jain24/abhishek-jain24/output/pacman-contribution-graph.svg">
-  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/abhishek-jain24/abhishek-jain24/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhishek-Jain24/abhishek-Jain24/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abhishek-Jain24/abhishek-Jain24/output/pacman-contribution-graph.svg">
+  <img alt="" src="https://raw.githubusercontent.com/abhishek-Jain24/abhishek-Jain24/output/pacman-contribution-graph.svg">
 </picture>
 
 ---
 
-
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishek-jain24&show_icons=true&locale=en&layout=compact&theme=default" alt="abhishek-jain24" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishek-Jain24&show_icons=true&locale=en&layout=compact&theme=default" alt="" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhishek-jain24&show_icons=true&locale=en&theme=default" alt="abhishek-jain24" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abhishek-Jain24&show_icons=true&locale=en&theme=default" alt="" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek-jain24&theme=default" alt="abhishek-jain24" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek-Jain24&theme=default" alt="" />
 </p>
 
 ---
@@ -88,10 +86,10 @@
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=abhishek-jain24&theme=flat&no-frame=true&row=1&column=6" alt="abhishek-jain24" />
+    <img src="https://github-profile-trophy.vercel.app/?username=abhishek-Jain24&theme=flat&no-frame=true&row=1&column=6" alt="" />
   </a>
 </p>
 
 ---
 
-⭐️ From [Abhishek Jain](https://github.com/abhishek-jain24)
+⭐️ From [Abhishek Jain](https://github.com/abhishek-Jain24)
