@@ -13,7 +13,7 @@
 - 🌱 I'm currently learning **Java** and diving deeper into **Backend Development**
 - 💻 I love building scalable and efficient backend systems
 - 🎯 Goal: To become a skilled **Backend Engineer** and contribute to impactful projects
-- 📫 How to reach me: **navyaabhi8512@gmail.com**
+- 📫 How to reach me: **abhishekjain24342@gmail.com**
 - ⚡ Fun fact: I enjoy solving problems and writing clean, maintainable code
 
 ---
