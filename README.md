@@ -68,20 +68,20 @@
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishek-Jain24&show_icons=true&locale=en&layout=compact&theme=default" alt="" />
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhishek-Jain24&theme=tokyonight" alt="Profile Details" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhishek-Jain24&show_icons=true&locale=en&theme=default" alt="" />
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abhishek-Jain24&theme=tokyonight" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhishek-Jain24&theme=tokyonight" alt="Top Languages" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek-Jain24&theme=default" alt="" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=abhishek-Jain24&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
-
 ## 🏆 GitHub Trophies
 
 <p align="left">
