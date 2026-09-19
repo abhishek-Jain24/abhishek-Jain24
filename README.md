@@ -56,6 +56,12 @@
 
 ---
 
+## 🏅 Holopin Badges
+
+[![@abhishekjain24's Holopin board](https://holopin.me/abhishekjain24)](https://holopin.io/@abhishekjain24)
+
+---
+
 ## 🎮 Pac-Man Contribution Graph
 
 <picture>
