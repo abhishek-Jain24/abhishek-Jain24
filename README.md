@@ -17,29 +17,56 @@
 - ⚡ Fun fact: I enjoy solving problems and writing clean, maintainable code
 
 ---
-
 ## 🛠️ Technical Skills
 
-<p align="left">
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=java" alt="" width="45" height="45"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=python" alt="" width="45" height="45"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=js" alt="" width="45" height="45"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=html" alt="" width="45" height="45"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=css" alt="" width="45" height="45"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=mysql" alt="" width="45" height="45"/>
-  </a>
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=java" width="45" height="45" alt="Java" />
+        <br /><b>Java</b>
+      </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=python" width="45" height="45" alt="Python" />
+        <br /><b>Python</b>
+      </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=js" width="45" height="45" alt="JavaScript" />
+        <br /><b>JavaScript</b>
+      </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=html" width="45" height="45" alt="HTML5" />
+        <br /><b>HTML</b>
+      </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=css" width="45" height="45" alt="CSS3" />
+        <br /><b>CSS</b>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=mysql" width="45" height="45" alt="MySQL" />
+        <br /><b>MySQL</b>
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" height="45" alt="NumPy" />
+        <br /><b>NumPy</b>
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" height="45" alt="Pandas" />
+        <br /><b>Pandas</b>
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="45" height="45" alt="Matplotlib" />
+        <br /><b>Matplotlib</b>
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" width="45" height="45" alt="Seaborn" />
+        <br /><b>Seaborn</b>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
