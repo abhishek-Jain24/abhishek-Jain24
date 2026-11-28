@@ -18,7 +18,7 @@
 
 ---
 
-## 🛠️ Languages and Tools
+## 🛠️ Technical Skills
 
 <p align="left">
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
